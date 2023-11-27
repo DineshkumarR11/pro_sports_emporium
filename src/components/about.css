@@ -1,0 +1,41 @@
+/* AboutUs.css */
+
+.about-container {
+    padding: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-section {
+    margin-bottom: 20px;
+  }
+  
+  .intro-text {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #007bff; /* Blue color */
+  }
+  
+  .divider {
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+  }
+  
+  .quote-section {
+    color: #555;
+    margin-bottom: 20px;
+  }
+  
+  .explore-section {
+    background-color: #e9f5dc; /* Light green background */
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .explore-section h3 {
+    color: #4caf50; /* Green color */
+  }
+  
